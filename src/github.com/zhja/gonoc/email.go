@@ -9,8 +9,8 @@ import (
 const (
     HOST        = "smtp.126.com"
     SERVER_ADDR = "smtp.126.com:25"
-    USER        = "zhja60@126.com" //发送邮件的邮箱
-    PASSWORD    = "zhaojian201030" //发送邮件邮箱的密码
+    USER        = "xxxxxx@126.com" //发送邮件的邮箱
+    PASSWORD    = "xxxxxxxx" //发送邮件邮箱的密码
 )
 
 type Email struct {
